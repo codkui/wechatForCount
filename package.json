@@ -1,0 +1,25 @@
+{
+  "name": "wechaty-pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "mysql": "^2.18.1",
+    "node-xlsx": "^0.15.0",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2",
+    "urlencode": "^1.1.0",
+    "wechaty": "^0.32.5",
+    "wechaty-puppet": "^0.20.2",
+    "wechaty-puppet-padplus": "^0.5.7"
+  }
+}

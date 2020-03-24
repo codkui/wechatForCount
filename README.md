@@ -1,2 +1,1 @@
-# wechatForCount
-利用微信机器人进行数据统计，存储到mysql数据库，支持自定义正则命令识别，批量操作
+根据 https://github.com/isboyjc/wechaty-Robot 进行二次开发的微信机器人助手，支持正则规则识别，存入mysql数据库，并支持业务逻辑
